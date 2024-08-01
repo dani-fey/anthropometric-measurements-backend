@@ -1,0 +1,166 @@
+0	cm	10	SUBJECT_NUMBER
+0	cm	10	AB-EXT-DEPTH-SIT
+0	cm	10	ACROMION_HT
+0	cm	10	ACR_HT-SIT
+0	cm	10	ACR-RADL_LNTH
+1	cm	10	ANKLE_CIRC	Ankle girth	The minimum horizontal circumference of the right ankle is measured with a tape.
+0	cm	10	AXILLA_HT
+1	cm	10	ARM_CIRC-AXILLARY	Arm girth, axillary	The circumference of the right upper arm perpendicular to its long axis at the level of the anterior-scye-on-the-upper arm landmark is measured with a tape. The subject stands erect looking straight ahead with shoulders and upper extremities relaxed and the palms facing the sides.
+1	cm	10	FOOT_CIRC	Foot girth	The circumference of the foot at the first and fifth metatarsophalangeal landmarks on the ball of the right foot is measured with a tape. The subject stands with the feet about 10 cm apart and the weight distributed equally on both feet.
+0	cm	10	INSTEP_LNTH
+1	cm	10	BIACROMIAL_BRTH	Shoulder width, biacromial	The distance between the right and left acromion landmarks at the tips of the shoulders is measured with a beam caliper. The subject sits erect. The shoulders and upper arms are relaxed and the forearms and hands are extended forward horizontally with the palms facing each other.
+1	cm	10	ARMCIRCBCPS_FLEX	Arm girth, biceps flexed
+1	cm	10	BIDELTOID_BRTH	Shoulder width, bideltoid	The maximum horizontal distance between the lateral margins of the upper arms on the deltoid muscles is measured with a beam caliper. The subject sits erect looking straight ahead. The shoulders and upper arms are relaxed and the forearms and hands are extended forward horizontally with the palms facing each other.
+0	cm	10	BIMALLEOLAR_BRTH
+0	cm	10	BISPINOUS_BRTH
+1	cm	10	BITR_MENTON_ARC	Bitragion - menton arc	The surface distance between the right and left tragion landmarks across the chin landmark at the tip of the chin is measured with a tape. The teeth are lightly occluded.
+1	cm	10	BITR-CORONAL_ARC	Bitragion - coronal arc	The surface distance between the right and left tragion landmarks across the top of the head is measured with a tape. The head is in the Frankfort plane.
+0	cm	10	BITR-CRINION_ARC	Bitragion - crinion arc	The surface distance between the right and left tragion landmarks across the top of the forehead at the lowest point of the hairline (crinion). Measured with a tape.
+1	cm	10	BITR-MINIMUM_FRNTAL_ARC	Bitragion - frontal arc	The surface distance between the right and left tragion landmarks across the forehead just above the ridges of the eyebrow is measured with a tape.
+1	cm	10	BITR_SUBMANDIBULAR_ARC	Bitragion - submandib. arc	The surface distance between the right and left tragion landmarks across the submandibular landmark at the juncture of the jaw and the neck is measured with a tape. The head is in the Frankfort plane and the teeth are lightly occluded.
+1	cm	10	BITR_SUBNASALE_ARC	Bitragion - subnasale arc	The surface distance between the right and left tragion landmarks across the subnasale landmark just under the nose is measured with a tape.
+1	cm	10	BIZYGOMATIC_BRTH	Bizygomatic breadth	The maximum horizontal breadth of the face (between the zygomatic arches) is measured with a spreading caliper.
+1	cm	10	BUSTPOINT_TO_BUSTPOINT_BRTH	Bustpoint distance	The distance between the right and left bustpoint landmarks on women and the center of the nipples (thelion) on men is measured with a beam caliper. The subject stands erect looking straight ahead. The shoulders an upper extremities are relaxed.
+1	cm	10	BUTTOCK_CIRC	Buttock girth	The circumference of the body measured at the level of the maximum posterior protuberance of the buttocks.
+0	cm	10	BUTT_DEPTH
+0	cm	10	BUTT_HT
+0	cm	10	BUTT_KNEE_LNTH
+0	cm	10	BUTT_POPLITEAL_LNTH
+0	cm	10	CALF_CIRC
+0	cm	10	CALF_HT
+0	cm	10	CERVIC_HT
+0	cm	10	CERVIC_HT_SITTING
+1	cm	10	CHEST_BRTH	Chest breadth	The maximum horizontal breadth of the chest at the level of the right bustpoint on women or the nipple on men is measured with a beam caliper. The subject stands erect looking straight ahead with the heels together, the weight distributed equally on both feet. The measurement is taken at the maximum point of quiet respiration.
+0	cm	10	CHEST_CIRC
+1	cm	10	CHEST_CIRC_AT_SCYE	Chest girth, skye	The horizontal circumference of the chest at the level of the scye at midspace landmark is measured with a tape. The subject stands erect looking straight ahead. The shoulders and upper extremities are relaxed.
+1	cm	10	CHEST_CIRC-BELOW_BUST_	Chest girth, below bust	The horizontal circumference of the chest at the level of the inferior juncture of the lowest breast with the rib cage is measured with a tape. On women, the tape may lie on the bra. The subject stands erect looking straight ahead. The shoulders and upper extremities are relaxed.
+0	cm	10	CHEST_DEPTH
+0	cm	10	CHEST_HT
+1	cm	10	CROTCH_HT	Crotch height	The vertical distance between the standing surface and the crotch is measured with an anthropometer. The subject stands erect looking straight ahead. The heels are together and the weight is distributed equally on both feet.
+0	cm	10	CROTCH_UMBILICUS
+1	cm	10	CROTCH_NAT_WAIST	Crotch-waist length	The distance between the abdomen at the level of the natural indentation of the waist to the same level on the back is measured with a tape passing through the crotch to the right of the genitalia. The tape is held vertically both in front and in back. The subject stands erect looking straight ahead.
+0	cm	10	CRTCH_PST_NATURAL
+0	cm	10	CRTCH_PST_OMPHALION
+0	cm	10	EAR_BRTH
+0	cm	10	EAR_LNTH
+0	cm	10	EAR_LNTH-ABOVE_TRAGION
+0	cm	10	EAR_PROTRUSION
+0	cm	10	ELBOW_CIRC-EXTENDED
+0	cm	10	ELBOW_REST_HT
+0	cm	10	EYE_HT-SITTING
+1	cm	10	FOOT_BRTH	Foot breadth	The maximum breadth of the right foot is measured on a footbox scale. The subject stands with each foot in a footbox and the weight distributed equally on both feet.
+1	cm	10	FOOT_LNTH	Foot length	The length of the foot measured parallel to its long axis.
+1	cm	10	FOREARM_CIRC-FLEXED	Forearm girth	The subject stands with the upper arm extended forward horizontally, the elbow flexed 90°, and the fist tightly clenched and held facing the head. The circumference of the flexed right forearm is measured with a tape passing across the crease at the juncture between the upper arm and the forearm. The measurement is made in a plane perpendicular to the long axis of the forearm.
+0	cm	10	FOREARM_TO_FOREARM_BRTH
+1	cm	10	FOREARM-HAND_LENTH	Forearm+hand length	The subject stands erect with the upper arms hanging at the sides and the right elbow flexed 90°. The hand is held out straight with the palm facing inward. The horizontal distance between the back of the tip of the right elbow to the tip of the right middle finger is measured with a beam caliper.
+0	cm	10	FUNCTIONAL_LEG_LNTH
+0	cm	10	GLUTEAL_FURROW_HT
+1	cm	10	HAND_BRTH_AT_METACARPALE	Hand breadth	The breadth of the right hand between the landmarks at metacarpale II and metacarpale V is measured with a sliding caliper. The subject places the palm on a table, the fingers together and the thumb abducted. The middle finger is parallel to the long axis of the forearm.
+1	cm	10	HAND_CIRC_AT_METACARPALE	Hand girth	The hand circumference of the right hand is measured with a tape passing over the landmarks at metacarpale II and metacarpale V. The subject places the palm on a table, the fingers together, and the thumb abducted. The middle finger is parallel to the long axis of the forearm.
+1	cm	10	HAND_LNTH	Hand length	The length of the right hand between the stylion landmark on the wrist and the tip of the middle finger is measured with a Poech sliding caliper. The subject places the palm on a table with the fingers together, and the thumb abducted. The middle finger is parallel to the long axis of the forearm.
+1	cm	10	HEAD_BRTH	Head breadth	The maximum horizontal breadth of the head above the attachment of the ears is measured with a spreading caliper.
+1	cm	10	HEAD_CIRC	Head girth	The maximum circumference of the head above the attachment of the ears is measured with a tape passing just above the ridges of the eyebrows and around the back of the head.
+1	cm	10	HEAD_LNTH	Head length	The distance from the glabella landmark between the browridges to the posterior point on the back of the head. Measured with a spreading caliper.
+0	cm	10	HEEL_ANKLE_CIRC
+0	cm	10	HEEL_BRTH
+1	cm	10	HIP_BRTH	Hip breadth	The horizontal distance between the lateral buttock landmarks on the sides of the hips is measured with a beam caliper. The subject stands erect with the heels together and the weight distributed equally on both feet.
+1	cm	10	HIP_BRTH_SITTING	Hip breadth, sitting	The distance between the lateral points of the hips or thighs (whichever are broader) is measured with a beam caliper. The subject sits erect with the feet and knees together.
+0	cm	10	ILIOCRISTALE_HT
+1	cm	10	INTERPUPILLARY_DIST	Interpupillary distance	The distance between the two pupils is measured with a pupilometer.
+0	cm	10	INTRSCY_DIST
+0	cm	10	INTRSCY_MID_DIST
+0	cm	10	KNEE_CIRC
+0	cm	10	PATELLA-MID_HT
+0	cm	10	KNEE_HT_-_SITTING
+0	cm	10	LATERAL_FEMORAL_EPICONDYLE_HT
+0	cm	10	LATERAL-MALLEOUS_HT
+0	cm	10	THIGH_CIRC-DISTAL
+1	cm	10	MENTON_TO_NASAL_ROOT_DEP_LNTH	Mention-sellion length	The distance between the menton landmark at the bottom of the chin and the sellion landmark at the deepest point of the nasal root depression. Measured with a sliding caliper. The teeth are lightly occluded.
+0	cm	10	MIDSHOULDER_HT-SITTING
+1	cm	10	NECK_TO_BUSTPOINT_LNTH	Neck-bustpoint length	The distance between the trapezius landmark at the right side of the neck and the right bustpoint landmark on women or the right nipple (thelion) on men. Measured with a tape. Subject stands erect looking straight ahead. Shoulders and upper extremities are relaxed.
+1	cm	10	NECK_CIRC-OVER_LARYNX	Neck girth (larynx)	The circumference of the neck at the level of the infrathyroid landmark (Adam’s apple). Measured with a tape.
+1	cm	10	NECK_CIRC-BASE	Neck girth (base)	The circumference of the base of the neck is measured by a tape passing over the drawn lateral and anterior neck landmarks. The subject stands erect with the head in the Frankfort plane. Shoulders and upper extremities are relaxed.
+0	cm	10	NECK_HT-LATERAL
+1	cm	10	OVRHD_REACH	Overhead reach	The vertical distance between a standing surface and the tip of the right middle finger when the arm is extended overhead. Subject stands facing a wall-mounted scale with both arms extended overhead parallel to each other. The toes are 20 cm from the wall and the feet are about 10 cm apart. The palms of the hands rest on the wall.
+0	cm	10	OVRHD_EXT_REACH
+0	cm	10	OVRHD_SIT_REACH
+0	cm	10	POPLITEAL_HT-SITTING
+0	cm	10	RADIALE-STYLION_LNTH
+0	cm	10	SCYE_CIRC_OVER_ACROMION
+0	cm	10	SCYE_DEPTH
+1	cm	10	SHOULDER_CIRC	Shoulder girth	The horizontal circumference of the shoulders at the level of the maximum protrusion of the right deltoid muscle is measured with a tape. Subject stands erect looking straight ahead. Shoulders and upper extremities are relaxed with the palms facing the thighs.
+0	cm	10	SHOULDER_ELBOW_LNTH
+0	cm	10	SHOULDER_LNTH
+1	cm	10	SITTING_HT	Sitting height	The vertical distance between a sitting surface and the tip of the head. Measured with an anthropometer. The subject sits erect with the head in the Frankfort plane.  The shoulders and upper arms are relaxed and the forearms and hands are extended forward horizontally with the palms facing each other. The thighs are parallel and the knees are flexed 90° with the feet in line with the thighs.  
+0	cm	10	SPINE_TO_ELBOW_LNTH_(SL)
+0	cm	10	SPINE_TO_SCYE_LNTH_(SL)
+0	cm	10	SPINE_TO_WRIST_LNTH_(SL)
+1	cm	10	SLEEVE-OUTSEAM_LNTH	Sleeve outseam length
+1	cm	10	SPAN	Span
+1	cm	10	STATURE	Body height	The vertical distance from a standing surface to the top of the head. Measured with an anthropometer. The subject stands erect with the head in the Frankfort plane.  The heels are together with the weight distributed equally on both feet. The shoulders and upper extremities are relaxed.  The measurement is taken at the maximum point of quiet respiration.
+0	cm	10	STRAP_LNTH
+0	cm	10	SUPRASTERNALE_HT
+0	cm	10	TENTH_RIB
+0	cm	10	THIGH_CIRC-PROXIMAL
+0	cm	10	THIGH_CLEARANCE
+1	cm	10	THUMB_BRTH	Thumb breadth	The maximum breadth of the right thumb perpendicular to its long axis is measured with a Holtain caliper. The thumb is held straight and held away from the hand at about a 45° angle.
+0	cm	10	THUMB-TIP_REACH
+0	cm	10	TROCHANTERION_HT
+0	cm	10	VERTICAL_TRUNK_CIRC
+0	cm	10	WAIST_NAT_LNTH
+0	cm	10	WAIST_OMPH_LNTH
+0	cm	10	WAIST_BRTH_OMPHALION
+1	cm	10	WAIST_CIRC_NATURAL	Waist girth	The horizontal circumference of the waist at the level of its natural indentation. measured with a tape passing over right and left waist (natural indentation) landmarks.  The subject stands erect looking straight ahead.
+1	cm	10	WAIST_CIRC-OMPHALION	Waist girth, navel	The horizontal circumference of the waist at the level of the center of the navel (omphalion). Measured with a tape. The subject stands erect looking straight ahead. The heels are together with the weight distributed equally on both feet.
+0	cm	10	WAIST_DEPTH-OMPHALION
+0	cm	10	WST_NAT_FRONT
+0	cm	10	WST_OMP_FRONT
+0	cm	10	WAIST_HT_NATURAL
+0	cm	10	WAIST_HT-OMPHALION
+0	cm	10	WAIST_HT_SIT_NATURAL
+0	cm	10	WAIST_HT-UMBILICUS-SITTING
+0	cm	10	WAIST_HIP_LNTH
+0	cm	10	WAIST_NATURAL_TO_WAIST_UMBILICUS
+1	kg	10	WEIGHT	Body weight	The weight of the subject taken to the nearest tenth of a kilogram. Subject stands on the platform of a scale.
+0	cm	10	WRIST_TO_CENTER_OF_GRIP_LNTH
+1	cm	10	WRIST_CIRC-STYLION	Wrist girth	The circumference of the wrist perpendicular to the long axis of the forearm. Measured with a tape passing over the stylion landmark on the wrist. The subject extends the right arm forward with the palm up.
+0	cm	10	WRIST_HT
+0	cm	10	WRIST_HT-SITTING
+0	cm	10	WRIST_TO_INDEX_FINGER_LNTH
+0	cm	10	WRIST_TO_THUMBTIP_LNTH
+0	cm	10	WRST_LNTH_TO_WALL
+0	cm	10	WRST_EXT_TO_WALL
+0	cm	10	MONTH_MEASURED-ANSUR88
+0	cm	10	DAY_MEASURED-ANSUR88
+0	cm	10	YEAR_MEASURED-ANSUR88
+0	cm	10	UNIT-ANSUR88
+0	cm	10	WAS_SUBJ_MEASURED-ANSUR88
+0	cm	10	GENDER
+0	cm	10	MILITARY_COMPONENT
+0	cm	10	MILITARY_PERSONNEL_CLASS
+0	cm	10	HANDNES_WEAPON
+0	cm	10	WEAPON_SITTING-ANSUR88
+0	cm	10	HANDNESS_WRITING
+0	cm	10	GLASSES-ANSUR88
+0	cm	10	RANK-ANSUR88
+0	cm	10	GRADE-ANSUR88
+0	cm	10	YEARS_SERVED-ANSUR88
+0	cm	10	MONTHS_SERVED-ANSUR88
+1	years	1	AGE-ANSUR88	Age	The age in years.
+0	cm	10	BIRTH_MONTH-ANSUR88
+0	cm	10	BIRTH_DAY-ANSUR88
+0	cm	10	BIRTH_YEAR-ANSUR88
+0	cm	10	EST_HT_FEET_ANSUR88
+0	cm	10	EST_HT_INCH_ANSUR88
+0	cm	10	"ESTIMATED_WEIGHT,_LBS-ANSUR88"
+0	cm	10	RACE_OF_SUBJECT-ANSUR88
+0	cm	10	RACE_OF_MOTHER-ANSUR88
+0	cm	10	RACE_OF_FATHER-ANSUR88
+1	code	10	ETHN_SUBJECT	Ethnicity
+0	cm	10	ETHNI_MOTHER
+0	cm	10	ETHNI_FATHER
+0	cm	10	BIRTH_PLACE
+0	cm	10	BIRTH_PL_MOTHER
+0	cm	10	BIRTH_PL_FATHER
+0	cm	10	PRIMARY_MOS_ANSUR88
+0	cm	10	SECONDARY_MOS_ANSUR88
